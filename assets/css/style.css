@@ -1,0 +1,55 @@
+body {
+    background: url("../images/office2.png") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.fa-coffee {
+    margin-left: 1rem;
+    color: rgba(61, 61, 199, 0.788);
+}
+
+.fa-briefcase {
+    margin-right: 1rem;
+    color: rgba(255, 255, 0, 0.692);
+}
+
+.results-button {
+    background-color: rgba(224, 224, 207, 0.733);
+    border: .1rem solid rgba(250, 250, 247, 0.822);
+    border-radius: 25%;
+    font-family: 'Roboto', sans-serif;
+    margin-left: .5rem;
+    margin-top: 2rem;
+}
+
+.results-button:hover {
+    color: rgba(158, 158, 122, 0.932);
+    background-color: rgba(255, 255, 255, 0.774);
+    border: .1rem solid black;
+}
+
+#form {
+    padding-top: 2rem;
+}
+
+.input-label {
+    color: rgba(37, 36, 36, 0.733);
+    font-size: 1.3rem;
+    margin-right: .8rem;
+}
+
+#office-input {
+    background-color: rgba(241, 52, 52, 0.685);
+    border: solid rgba(34, 32, 32, 0.781);
+    border-radius: 10%;
+}
+
+#submit-button {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgba(167, 157, 157, 0.322);
+    font-weight: bold;
+}
+
